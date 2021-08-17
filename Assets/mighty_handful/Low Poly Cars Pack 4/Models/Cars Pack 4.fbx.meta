@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: b649bdf95b0214ac7bf955e03b3aa5b6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Car body.1
+    100002: Car body.10
+    100004: Car body.11
+    100006: Car body.12
+    100008: Car body.13
+    100010: Car body.14
+    100012: Car body.15
+    100014: Car body.16
+    100016: Car body.17
+    100018: Car body.18
+    100020: Car body.19
+    100022: Car body.2
+    100024: Car body.20
+    100026: Car body.3
+    100028: Car body.4
+    100030: Car body.5
+    100032: Car body.6
+    100034: Car body.7
+    100036: Car body.8
+    100038: Car body.9
+    100040: Car.1
+    100042: Car.1 left wheel
+    100044: Car.1 left wheel.001
+    100046: Car.1 right wheel
+    100048: Car.1 right wheel.001
+    100050: Car.10
+    100052: Car.10 left wheel
+    100054: Car.10 left wheel.001
+    100056: Car.10 right wheel
+    100058: Car.10 right wheel.001
+    100060: Car.11
+    100062: Car.11 left wheel
+    100064: Car.11 left wheel.001
+    100066: Car.11 right wheel
+    100068: Car.11 right wheel.001
+    100070: Car.12
+    100072: Car.12 left wheel
+    100074: Car.12 left wheel.001
+    100076: Car.12 right wheel
+    100078: Car.12 right wheel.001
+    100080: Car.13
+    100082: Car.13 left wheel
+    100084: Car.13 left wheel.001
+    100086: Car.13 right wheel
+    100088: Car.13 right wheel.001
+    100090: Car.14
+    100092: Car.14 left wheel
+    100094: Car.14 left wheel.001
+    100096: Car.14 right wheel
+    100098: Car.14 right wheel.001
+    100100: Car.15
+    100102: Car.15 left wheel
+    100104: Car.15 left wheel.001
+    100106: Car.15 right wheel
+    100108: Car.15 right wheel.001
+    100110: Car.16
+    100112: Car.16 left wheel
+    100114: Car.16 left wheel.001
+    100116: Car.16 right wheel
+    100118: Car.16 right wheel.001
+    100120: Car.17
+    100122: Car.17 left wheel
+    100124: Car.17 left wheel.001
+    100126: Car.17 right wheel
+    100128: Car.17 right wheel.001
+    100130: Car.18
+    100132: Car.18 left wheel
+    100134: Car.18 left wheel.001
+    100136: Car.18 right wheel
+    100138: Car.18 right wheel.001
+    100140: Car.19
+    100142: Car.19 left wheel
+    100144: Car.19 left wheel.001
+    100146: Car.19 right wheel
+    100148: Car.19 right wheel.001
+    100150: Car.2
+    100152: Car.2 left wheel
+    100154: Car.2 left wheel.001
+    100156: Car.2 right wheel
+    100158: Car.2 right wheel.001
+    100160: Car.20
+    100162: Car.20 left wheel
+    100164: Car.20 left wheel.001
+    100166: Car.20 right wheel
+    100168: Car.20 right wheel.001
+    100170: Car.3
+    100172: Car.3 left wheel
+    100174: Car.3 left wheel.001
+    100176: Car.3 right wheel
+    100178: Car.3 right wheel.001
+    100180: Car.4
+    100182: Car.4 helm
+    100184: Car.4 left wheel
+    100186: Car.4 left wheel.001
+    100188: Car.4 right wheel
+    100190: Car.4 right wheel.001
+    100192: Car.5
+    100194: Car.5 left wheel
+    100196: Car.5 left wheel.001
+    100198: Car.5 right wheel
+    100200: Car.5 right wheel.001
+    100202: Car.6
+    100204: Car.6 left wheel
+    100206: Car.6 left wheel.001
+    100208: Car.6 right wheel
+    100210: Car.6 right wheel.001
+    100212: Car.7
+    100214: Car.7 left wheel
+    100216: Car.7 left wheel.001
+    100218: Car.7 right wheel
+    100220: Car.7 right wheel.001
+    100222: Car.8
+    100224: Car.8 left wheel
+    100226: Car.8 left wheel.001
+    100228: Car.8 left wheel.002
+    100230: Car.8 mixer
+    100232: Car.8 right wheel
+    100234: Car.8 right wheel.001
+    100236: Car.8 right wheel.002
+    100238: Car.9
+    100240: Car.9 left wheel
+    100242: Car.9 left wheel.001
+    100244: Car.9 right wheel
+    100246: Car.9 right wheel.001
+    100248: //RootNode
+    400000: Car body.1
+    400002: Car body.10
+    400004: Car body.11
+    400006: Car body.12
+    400008: Car body.13
+    400010: Car body.14
+    400012: Car body.15
+    400014: Car body.16
+    400016: Car body.17
+    400018: Car body.18
+    400020: Car body.19
+    400022: Car body.2
+    400024: Car body.20
+    400026: Car body.3
+    400028: Car body.4
+    400030: Car body.5
+    400032: Car body.6
+    400034: Car body.7
+    400036: Car body.8
+    400038: Car body.9
+    400040: Car.1
+    400042: Car.1 left wheel
+    400044: Car.1 left wheel.001
+    400046: Car.1 right wheel
+    400048: Car.1 right wheel.001
+    400050: Car.10
+    400052: Car.10 left wheel
+    400054: Car.10 left wheel.001
+    400056: Car.10 right wheel
+    400058: Car.10 right wheel.001
+    400060: Car.11
+    400062: Car.11 left wheel
+    400064: Car.11 left wheel.001
+    400066: Car.11 right wheel
+    400068: Car.11 right wheel.001
+    400070: Car.12
+    400072: Car.12 left wheel
+    400074: Car.12 left wheel.001
+    400076: Car.12 right wheel
+    400078: Car.12 right wheel.001
+    400080: Car.13
+    400082: Car.13 left wheel
+    400084: Car.13 left wheel.001
+    400086: Car.13 right wheel
+    400088: Car.13 right wheel.001
+    400090: Car.14
+    400092: Car.14 left wheel
+    400094: Car.14 left wheel.001
+    400096: Car.14 right wheel
+    400098: Car.14 right wheel.001
+    400100: Car.15
+    400102: Car.15 left wheel
+    400104: Car.15 left wheel.001
+    400106: Car.15 right wheel
+    400108: Car.15 right wheel.001
+    400110: Car.16
+    400112: Car.16 left wheel
+    400114: Car.16 left wheel.001
+    400116: Car.16 right wheel
+    400118: Car.16 right wheel.001
+    400120: Car.17
+    400122: Car.17 left wheel
+    400124: Car.17 left wheel.001
+    400126: Car.17 right wheel
+    400128: Car.17 right wheel.001
+    400130: Car.18
+    400132: Car.18 left wheel
+    400134: Car.18 left wheel.001
+    400136: Car.18 right wheel
+    400138: Car.18 right wheel.001
+    400140: Car.19
+    400142: Car.19 left wheel
+    400144: Car.19 left wheel.001
+    400146: Car.19 right wheel
+    400148: Car.19 right wheel.001
+    400150: Car.2
+    400152: Car.2 left wheel
+    400154: Car.2 left wheel.001
+    400156: Car.2 right wheel
+    400158: Car.2 right wheel.001
+    400160: Car.20
+    400162: Car.20 left wheel
+    400164: Car.20 left wheel.001
+    400166: Car.20 right wheel
+    400168: Car.20 right wheel.001
+    400170: Car.3
+    400172: Car.3 left wheel
+    400174: Car.3 left wheel.001
+    400176: Car.3 right wheel
+    400178: Car.3 right wheel.001
+    400180: Car.4
+    400182: Car.4 helm
+    400184: Car.4 left wheel
+    400186: Car.4 left wheel.001
+    400188: Car.4 right wheel
+    400190: Car.4 right wheel.001
+    400192: Car.5
+    400194: Car.5 left wheel
+    400196: Car.5 left wheel.001
+    400198: Car.5 right wheel
+    400200: Car.5 right wheel.001
+    400202: Car.6
+    400204: Car.6 left wheel
+    400206: Car.6 left wheel.001
+    400208: Car.6 right wheel
+    400210: Car.6 right wheel.001
+    400212: Car.7
+    400214: Car.7 left wheel
+    400216: Car.7 left wheel.001
+    400218: Car.7 right wheel
+    400220: Car.7 right wheel.001
+    400222: Car.8
+    400224: Car.8 left wheel
+    400226: Car.8 left wheel.001
+    400228: Car.8 left wheel.002
+    400230: Car.8 mixer
+    400232: Car.8 right wheel
+    400234: Car.8 right wheel.001
+    400236: Car.8 right wheel.002
+    400238: Car.9
+    400240: Car.9 left wheel
+    400242: Car.9 left wheel.001
+    400244: Car.9 right wheel
+    400246: Car.9 right wheel.001
+    400248: //RootNode
+    2100000: Car.1
+    2100002: Car.2
+    2100004: Car.3
+    2100006: Material
+    2100008: Material.001
+    2100010: Material.002
+    2100012: Material.003
+    2100014: Material.004
+    2100016: Material.005
+    2100018: Material.006
+    2100020: Material.007
+    2100022: Material.008
+    2100024: Material.009
+    2100026: Material.010
+    2100028: Material.011
+    2100030: Material.012
+    2100032: Material.013
+    2100034: Material.014
+    2100036: Material.015
+    2100038: Material.016
+    2300000: Car body.1
+    2300002: Car body.10
+    2300004: Car body.11
+    2300006: Car body.12
+    2300008: Car body.13
+    2300010: Car body.14
+    2300012: Car body.15
+    2300014: Car body.16
+    2300016: Car body.17
+    2300018: Car body.18
+    2300020: Car body.19
+    2300022: Car body.2
+    2300024: Car body.20
+    2300026: Car body.3
+    2300028: Car body.4
+    2300030: Car body.5
+    2300032: Car body.6
+    2300034: Car body.7
+    2300036: Car body.8
+    2300038: Car body.9
+    2300040: Car.1
+    2300042: Car.1 left wheel
+    2300044: Car.1 left wheel.001
+    2300046: Car.1 right wheel
+    2300048: Car.1 right wheel.001
+    2300050: Car.10
+    2300052: Car.10 left wheel
+    2300054: Car.10 left wheel.001
+    2300056: Car.10 right wheel
+    2300058: Car.10 right wheel.001
+    2300060: Car.11
+    2300062: Car.11 left wheel
+    2300064: Car.11 left wheel.001
+    2300066: Car.11 right wheel
+    2300068: Car.11 right wheel.001
+    2300070: Car.12
+    2300072: Car.12 left wheel
+    2300074: Car.12 left wheel.001
+    2300076: Car.12 right wheel
+    2300078: Car.12 right wheel.001
+    2300080: Car.13
+    2300082: Car.13 left wheel
+    2300084: Car.13 left wheel.001
+    2300086: Car.13 right wheel
+    2300088: Car.13 right wheel.001
+    2300090: Car.14
+    2300092: Car.14 left wheel
+    2300094: Car.14 left wheel.001
+    2300096: Car.14 right wheel
+    2300098: Car.14 right wheel.001
+    2300100: Car.15
+    2300102: Car.15 left wheel
+    2300104: Car.15 left wheel.001
+    2300106: Car.15 right wheel
+    2300108: Car.15 right wheel.001
+    2300110: Car.16
+    2300112: Car.16 left wheel
+    2300114: Car.16 left wheel.001
+    2300116: Car.16 right wheel
+    2300118: Car.16 right wheel.001
+    2300120: Car.17
+    2300122: Car.17 left wheel
+    2300124: Car.17 left wheel.001
+    2300126: Car.17 right wheel
+    2300128: Car.17 right wheel.001
+    2300130: Car.18
+    2300132: Car.18 left wheel
+    2300134: Car.18 left wheel.001
+    2300136: Car.18 right wheel
+    2300138: Car.18 right wheel.001
+    2300140: Car.19
+    2300142: Car.19 left wheel
+    2300144: Car.19 left wheel.001
+    2300146: Car.19 right wheel
+    2300148: Car.19 right wheel.001
+    2300150: Car.2
+    2300152: Car.2 left wheel
+    2300154: Car.2 left wheel.001
+    2300156: Car.2 right wheel
+    2300158: Car.2 right wheel.001
+    2300160: Car.20
+    2300162: Car.20 left wheel
+    2300164: Car.20 left wheel.001
+    2300166: Car.20 right wheel
+    2300168: Car.20 right wheel.001
+    2300170: Car.3
+    2300172: Car.3 left wheel
+    2300174: Car.3 left wheel.001
+    2300176: Car.3 right wheel
+    2300178: Car.3 right wheel.001
+    2300180: Car.4
+    2300182: Car.4 helm
+    2300184: Car.4 left wheel
+    2300186: Car.4 left wheel.001
+    2300188: Car.4 right wheel
+    2300190: Car.4 right wheel.001
+    2300192: Car.5
+    2300194: Car.5 left wheel
+    2300196: Car.5 left wheel.001
+    2300198: Car.5 right wheel
+    2300200: Car.5 right wheel.001
+    2300202: Car.6
+    2300204: Car.6 left wheel
+    2300206: Car.6 left wheel.001
+    2300208: Car.6 right wheel
+    2300210: Car.6 right wheel.001
+    2300212: Car.7
+    2300214: Car.7 left wheel
+    2300216: Car.7 left wheel.001
+    2300218: Car.7 right wheel
+    2300220: Car.7 right wheel.001
+    2300222: Car.8
+    2300224: Car.8 left wheel
+    2300226: Car.8 left wheel.001
+    2300228: Car.8 left wheel.002
+    2300230: Car.8 mixer
+    2300232: Car.8 right wheel
+    2300234: Car.8 right wheel.001
+    2300236: Car.8 right wheel.002
+    2300238: Car.9
+    2300240: Car.9 left wheel
+    2300242: Car.9 left wheel.001
+    2300244: Car.9 right wheel
+    2300246: Car.9 right wheel.001
+    3300000: Car body.1
+    3300002: Car body.10
+    3300004: Car body.11
+    3300006: Car body.12
+    3300008: Car body.13
+    3300010: Car body.14
+    3300012: Car body.15
+    3300014: Car body.16
+    3300016: Car body.17
+    3300018: Car body.18
+    3300020: Car body.19
+    3300022: Car body.2
+    3300024: Car body.20
+    3300026: Car body.3
+    3300028: Car body.4
+    3300030: Car body.5
+    3300032: Car body.6
+    3300034: Car body.7
+    3300036: Car body.8
+    3300038: Car body.9
+    3300040: Car.1
+    3300042: Car.1 left wheel
+    3300044: Car.1 left wheel.001
+    3300046: Car.1 right wheel
+    3300048: Car.1 right wheel.001
+    3300050: Car.10
+    3300052: Car.10 left wheel
+    3300054: Car.10 left wheel.001
+    3300056: Car.10 right wheel
+    3300058: Car.10 right wheel.001
+    3300060: Car.11
+    3300062: Car.11 left wheel
+    3300064: Car.11 left wheel.001
+    3300066: Car.11 right wheel
+    3300068: Car.11 right wheel.001
+    3300070: Car.12
+    3300072: Car.12 left wheel
+    3300074: Car.12 left wheel.001
+    3300076: Car.12 right wheel
+    3300078: Car.12 right wheel.001
+    3300080: Car.13
+    3300082: Car.13 left wheel
+    3300084: Car.13 left wheel.001
+    3300086: Car.13 right wheel
+    3300088: Car.13 right wheel.001
+    3300090: Car.14
+    3300092: Car.14 left wheel
+    3300094: Car.14 left wheel.001
+    3300096: Car.14 right wheel
+    3300098: Car.14 right wheel.001
+    3300100: Car.15
+    3300102: Car.15 left wheel
+    3300104: Car.15 left wheel.001
+    3300106: Car.15 right wheel
+    3300108: Car.15 right wheel.001
+    3300110: Car.16
+    3300112: Car.16 left wheel
+    3300114: Car.16 left wheel.001
+    3300116: Car.16 right wheel
+    3300118: Car.16 right wheel.001
+    3300120: Car.17
+    3300122: Car.17 left wheel
+    3300124: Car.17 left wheel.001
+    3300126: Car.17 right wheel
+    3300128: Car.17 right wheel.001
+    3300130: Car.18
+    3300132: Car.18 left wheel
+    3300134: Car.18 left wheel.001
+    3300136: Car.18 right wheel
+    3300138: Car.18 right wheel.001
+    3300140: Car.19
+    3300142: Car.19 left wheel
+    3300144: Car.19 left wheel.001
+    3300146: Car.19 right wheel
+    3300148: Car.19 right wheel.001
+    3300150: Car.2
+    3300152: Car.2 left wheel
+    3300154: Car.2 left wheel.001
+    3300156: Car.2 right wheel
+    3300158: Car.2 right wheel.001
+    3300160: Car.20
+    3300162: Car.20 left wheel
+    3300164: Car.20 left wheel.001
+    3300166: Car.20 right wheel
+    3300168: Car.20 right wheel.001
+    3300170: Car.3
+    3300172: Car.3 left wheel
+    3300174: Car.3 left wheel.001
+    3300176: Car.3 right wheel
+    3300178: Car.3 right wheel.001
+    3300180: Car.4
+    3300182: Car.4 helm
+    3300184: Car.4 left wheel
+    3300186: Car.4 left wheel.001
+    3300188: Car.4 right wheel
+    3300190: Car.4 right wheel.001
+    3300192: Car.5
+    3300194: Car.5 left wheel
+    3300196: Car.5 left wheel.001
+    3300198: Car.5 right wheel
+    3300200: Car.5 right wheel.001
+    3300202: Car.6
+    3300204: Car.6 left wheel
+    3300206: Car.6 left wheel.001
+    3300208: Car.6 right wheel
+    3300210: Car.6 right wheel.001
+    3300212: Car.7
+    3300214: Car.7 left wheel
+    3300216: Car.7 left wheel.001
+    3300218: Car.7 right wheel
+    3300220: Car.7 right wheel.001
+    3300222: Car.8
+    3300224: Car.8 left wheel
+    3300226: Car.8 left wheel.001
+    3300228: Car.8 left wheel.002
+    3300230: Car.8 mixer
+    3300232: Car.8 right wheel
+    3300234: Car.8 right wheel.001
+    3300236: Car.8 right wheel.002
+    3300238: Car.9
+    3300240: Car.9 left wheel
+    3300242: Car.9 left wheel.001
+    3300244: Car.9 right wheel
+    3300246: Car.9 right wheel.001
+    4300000: Car.1
+    4300002: Car body.1
+    4300004: Car.1 left wheel.001
+    4300006: Car.1 left wheel
+    4300008: Car.1 right wheel
+    4300010: Car.1 right wheel.001
+    4300012: Car.2
+    4300014: Car body.2
+    4300016: Car.2 left wheel.001
+    4300018: Car.2 left wheel
+    4300020: Car.2 right wheel
+    4300022: Car.2 right wheel.001
+    4300024: Car.3
+    4300026: Car body.3
+    4300028: Car.3 left wheel.001
+    4300030: Car.3 left wheel
+    4300032: Car.3 right wheel
+    4300034: Car.3 right wheel.001
+    4300036: Car.4
+    4300038: Car.4 helm
+    4300040: Car.4 left wheel.001
+    4300042: Car.4 left wheel
+    4300044: Car.4 right wheel
+    4300046: Car.4 right wheel.001
+    4300048: Car body.4
+    4300050: Car.5
+    4300052: Car body.5
+    4300054: Car.5 left wheel
+    4300056: Car.5 left wheel.001
+    4300058: Car.5 right wheel
+    4300060: Car.5 right wheel.001
+    4300062: Car.6
+    4300064: Car body.6
+    4300066: Car.6 left wheel.001
+    4300068: Car.6 left wheel
+    4300070: Car.6 right wheel
+    4300072: Car.6 right wheel.001
+    4300074: Car.7
+    4300076: Car body.7
+    4300078: Car.7 left wheel.001
+    4300080: Car.7 left wheel
+    4300082: Car.7 right wheel.001
+    4300084: Car.7 right wheel
+    4300086: Car.8
+    4300088: Car body.8
+    4300090: Car.8 left wheel.002
+    4300092: Car.8 left wheel.001
+    4300094: Car.8 left wheel
+    4300096: Car.8 right wheel
+    4300098: Car.8 right wheel.001
+    4300100: Car.8 right wheel.002
+    4300102: Car.8 mixer
+    4300104: Car.9
+    4300106: Car body.9
+    4300108: Car.9 left wheel.001
+    4300110: Car.9 left wheel
+    4300112: Car.9 right wheel.001
+    4300114: Car.9 right wheel
+    4300116: Car.10
+    4300118: Car body.10
+    4300120: Car.10 left wheel.001
+    4300122: Car.10 left wheel
+    4300124: Car.10 right wheel
+    4300126: Car.10 right wheel.001
+    4300128: Car.11
+    4300130: Car body.11
+    4300132: Car.11 left wheel.001
+    4300134: Car.11 left wheel
+    4300136: Car.11 right wheel
+    4300138: Car.11 right wheel.001
+    4300140: Car.12
+    4300142: Car body.12
+    4300144: Car.12 left wheel.001
+    4300146: Car.12 left wheel
+    4300148: Car.12 right wheel
+    4300150: Car.12 right wheel.001
+    4300152: Car.13
+    4300154: Car body.13
+    4300156: Car.13 left wheel.001
+    4300158: Car.13 left wheel
+    4300160: Car.13 right wheel
+    4300162: Car.13 right wheel.001
+    4300164: Car.14
+    4300166: Car body.14
+    4300168: Car.14 left wheel.001
+    4300170: Car.14 left wheel
+    4300172: Car.14 right wheel
+    4300174: Car.14 right wheel.001
+    4300176: Car.15
+    4300178: Car body.15
+    4300180: Car.15 left wheel.001
+    4300182: Car.15 left wheel
+    4300184: Car.15 right wheel.001
+    4300186: Car.15 right wheel
+    4300188: Car.16
+    4300190: Car body.16
+    4300192: Car.16 left wheel.001
+    4300194: Car.16 left wheel
+    4300196: Car.16 right wheel.001
+    4300198: Car.16 right wheel
+    4300200: Car.17
+    4300202: Car body.17
+    4300204: Car.17 left wheel.001
+    4300206: Car.17 left wheel
+    4300208: Car.17 right wheel
+    4300210: Car.17 right wheel.001
+    4300212: Car.18
+    4300214: Car body.18
+    4300216: Car.18 left wheel.001
+    4300218: Car.18 right wheel.001
+    4300220: Car.18 left wheel
+    4300222: Car.18 right wheel
+    4300224: Car.19
+    4300226: Car body.19
+    4300228: Car.19 left wheel.001
+    4300230: Car.19 left wheel
+    4300232: Car.19 right wheel
+    4300234: Car.19 right wheel.001
+    4300236: Car.20
+    4300238: Car body.20
+    4300240: Car.20 left wheel.001
+    4300242: Car.20 left wheel
+    4300244: Car.20 right wheel
+    4300246: Car.20 right wheel.001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car.1
+    second: {fileID: 2100000, guid: 81e16728878ac46189f9623f3ee518de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car.2
+    second: {fileID: 2100000, guid: a9738f66152d74a00aa63f43f2156714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car.3
+    second: {fileID: 2100000, guid: adc0e39c7f35446d79e52cab78e3c628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: a93c63c7aa75f4faf83241d2d4bf4b18, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
